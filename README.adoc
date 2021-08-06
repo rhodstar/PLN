@@ -1,0 +1,36 @@
+= Procesamiento del lenguaje natural (PLN)
+Creado por Rodrigo Francisco <rhodfra@gmail.com>
+Version 1.0, 24.02.2021
+//:keywords: 
+//:sectnums: 
+// Configuracion de la tabla de contenidos
+:toc: 
+:toc-placement!:
+:toclevels: 4                                          
+:toc-title: Contenido
+
+// Ruta base de las imagenes
+:imagesdir: ./README.assets/ 
+
+// Resaltar sintaxis
+:source-highlighter: pygments
+
+// Iconos para entorno local
+ifndef::env-github[:icons: font]
+
+// Iconos para entorno github
+ifdef::env-github[]
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
+Tareas de la materia de PLN
+
+[source,sh]
+Agosto de 2021
+Autor: rhodfra@gmail.com 
+
+image::nlp.png[]
